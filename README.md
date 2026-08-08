@@ -63,9 +63,9 @@ A partir de quintiles en cada dimensión, se asignó a cada cliente uno de los s
 
 - El negocio presenta indicadores favorables de fidelización: dos tercios de los clientes realizan compras recurrentes
 - Los ingresos están moderadamente concentrados en los clientes de mayor valor, sin depender exclusivamente de un grupo reducido
-- El segmento más numeroso es el de clientes ocasionales, seguido por clientes en riesgo, lo que señala oportunidades de mejora en retención
-- La mayoría de los clientes que realizaron una única compra terminan formando parte del grupo de clientes inactivos, lo que sugiere que el principal desafío del negocio es incentivar la segunda compra
-- El porcentaje de clientes nuevos es relativamente reducido, lo que indica la importancia de complementar la retención con estrategias de captación
+- El segmento más numeroso es el de clientes ocasionales. Además, se identifica un grupo considerable de clientes en riesgo, lo que señala oportunidades de mejora en convertir compradores esporádicos en clientes recurrentes.
+- La mayoría de los clientes que realizaron una única compra terminan formando parte del grupo de clientes inactivos, lo que sugiere que otro desafío importante del negocio es incentivar la segunda compra
+- El porcentaje de clientes nuevos es relativamente reducido, lo que indica la importancia de complementar la fidelización y retención con estrategias de captación
 
 ---
 
